@@ -1,2 +1,3 @@
 ---
-_entity: "github.com/AmadlaOrg/Entity@latest"
+_meta:
+  _entity: github.com/AmadlaOrg/Entity@latest
